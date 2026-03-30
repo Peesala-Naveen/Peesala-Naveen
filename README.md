@@ -19,7 +19,6 @@
 
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peesala-Naveen&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peesala-Naveen&layout=compact&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=Peesala-Naveen&color=blue)
 
