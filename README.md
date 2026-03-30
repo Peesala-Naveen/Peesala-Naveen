@@ -14,7 +14,7 @@
 <h3>Languages and Tools:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,django,mysql,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,mysql,git,github,html,css" />
 </p>
 
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peesala-Naveen&show_icons=true&theme=tokyonight)
