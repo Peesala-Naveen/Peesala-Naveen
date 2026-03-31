@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">A passionate AI, Web & Data Enthusiast</h3>
 
-- 🔭 I’m currently working on Web Development Projects  
+- 🔭 I’m currently working on Web Development & Machine Learning Projects
 - 🌱 I’m learning DSA & Data Analytics  
 - 💬 Ask me about JavaScript, MERN stack 
 - 📫 Reach me: naveenpeesala2004@gmail.com
