@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peesala-Naveen&show_icons=true&theme=tokyonight)
+
 
 
 ![](https://komarev.com/ghpvc/?username=Peesala-Naveen&color=blue)
