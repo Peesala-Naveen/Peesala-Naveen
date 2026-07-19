@@ -14,8 +14,9 @@
 <h3>technologies and Tools:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,sklearn,html,css,js,mysql,mongodb,react,express,nodejs,npm,postman,github,netlify,vercel,render,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,sklearn,html,css,js,mysql,mongodb,react,express,nodejs,npm,postman,github,git,vscode,netlify,vercel,render" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge" />
