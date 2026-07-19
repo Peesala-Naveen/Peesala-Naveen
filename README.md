@@ -14,7 +14,7 @@
 <h3>Languages and Tools:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,sklearn,html,css,js,mysql,mongodb,react,express,nodejs,npm,postman,github,netlify,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,sklearn,html,css,js,mysql,mongodb,react,express,nodejs,npm,postman,github,netlify,vercel,vscode,n8n" />
 </p>
 
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peesala-Naveen&show_icons=true&theme=tokyonight)
