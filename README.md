@@ -11,10 +11,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/naveen-peesala-b41019301)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Peesala-Naveen)
 
-<h3>Languages and Tools:</h3>
+<h3>technologies and Tools:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,sklearn,html,css,js,mysql,mongodb,react,express,nodejs,npm,postman,github,netlify,vercel,vscode,n8n" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,sklearn,html,css,js,mysql,mongodb,react,express,nodejs,npm,postman,github,netlify,vercel,render,vscode" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peesala-Naveen&show_icons=true&theme=tokyonight)
