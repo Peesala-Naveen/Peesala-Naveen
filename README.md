@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naveen</h1>
+<h1 align="center">Hi 👋, I'm Peesala Naveen</h1>
 <h3 align="center">A passionate AI, Web & Data Enthusiast</h3>
 
 - 🔭 I’m currently working on Web Development Projects & AI Automations.
